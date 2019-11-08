@@ -1,0 +1,19 @@
+{
+    "file_hashes": [
+        {
+            "block_hashes": [
+                "DLLjx4BsDo8i1W/psaZDLeadiPEfXh7jmdLYFkOwS20="
+            ],
+            "block_size": 4096,
+            "path": "SigPlusExtLiteBgExtn.js"
+        },
+        {
+            "block_hashes": [
+                "nAAzzYtLKAzl6queizFQhXjFxNYTWb0qtTUa/XocL2M="
+            ],
+            "block_size": 4096,
+            "path": "SigPlusExtLiteSigningChromeExt.js"
+        }
+    ],
+    "version": 2
+}

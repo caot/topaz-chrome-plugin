@@ -1,0 +1,24 @@
+[
+    {
+        "description": "treehash per file",
+        "signed_content": {
+            "payload": "eyJjb250ZW50X2hhc2hlcyI6W3siYmxvY2tfc2l6ZSI6NDA5NiwiZGlnZXN0Ijoic2hhMjU2IiwiZmlsZXMiOlt7InBhdGgiOiJTaWdQbHVzRXh0TGl0ZUJnRXh0bi5qcyIsInJvb3RfaGFzaCI6IkRMTGp4NEJzRG84aTFXX3BzYVpETGVhZGlQRWZYaDdqbWRMWUZrT3dTMjAifSx7InBhdGgiOiJTaWdQbHVzRXh0TGl0ZVNpZ25pbmdDaHJvbWVFeHQuanMiLCJyb290X2hhc2giOiJuQUF6ell0TEtBemw2cXVlaXpGUWhYakZ4TllUV2IwcXRUVWFfWG9jTDJNIn0seyJwYXRoIjoiaWNvbjEyOC5wbmciLCJyb290X2hhc2giOiJCcWdvM21fMGxmbk5IemZtWllmdjV6YWt0UnhaYXJ4dVVMNDB4Y3ZmM29rIn0seyJwYXRoIjoiaWNvbjE2LnBuZyIsInJvb3RfaGFzaCI6ImpVTFdMNGZBNkJfc00zNWx3ZGlBSC1MWGlFaGF1NmE4OWJuQmxfZUhFdDQifSx7InBhdGgiOiJpY29uNDgucG5nIiwicm9vdF9oYXNoIjoiWHRpOU1oYVhYZkVhWV9CekVlTnVSendyZE9OdUhsMWxaVE9XY25XVDZDayJ9LHsicGF0aCI6Im1hbmlmZXN0Lmpzb24iLCJyb290X2hhc2giOiJMcHhvejEyUDg2MENjRmlnMHNpM1lHNlJ1TlUtcjVDVVJ5S2paRkZGODc0In1dLCJmb3JtYXQiOiJ0cmVlaGFzaCIsImhhc2hfYmxvY2tfc2l6ZSI6NDA5Nn1dLCJpdGVtX2lkIjoiZGhjcG9iY2Nqa2RubWliY2tncGVqbWJwbXBlbWJnY28iLCJpdGVtX3ZlcnNpb24iOiIxLjEuMC4zIiwicHJvdG9jb2xfdmVyc2lvbiI6MX0",
+            "signatures": [
+                {
+                    "header": {
+                        "kid": "publisher"
+                    },
+                    "protected": "eyJhbGciOiJSUzI1NiJ9",
+                    "signature": "AqajGq5Yjfhw0TEIOZ5SmXGDfnnnmS14Krhq1JaxPDtsTDm_jwo7u33tJU6ekrcvXGKfXssl3ybjRexOtuaE2RRNwbiv7f3b8e41kHmyHod6b3wmovOfNe6Hr4OKRJp7GaoGVs1Ud8Suae_yfatNF90pvGKSjnCXoVgitaV_6R1L6jSkgLOeGmjF9BIqfrCeq-1FskeSLkLER0X7LMeh0U4g_heWheauWNnOrREMEHfNGPvYdf12W-xqSZjhNdZj0iYoNwT64LOIHmtbB_ft_5Z1Nf4y1ULFUSaEuWwcyYMq5sDUaZPOvfNUN3zm8uxRiHuTOve0Zqk2EQUMepFWpg"
+                },
+                {
+                    "header": {
+                        "kid": "webstore"
+                    },
+                    "protected": "eyJhbGciOiJSUzI1NiJ9",
+                    "signature": "aafvIfhYXlawJ-ihz3YuOyTMJBEBgGOSlHZ7Mxu1QpLW0Lpvh4ncfJHgePrzYtzNU4avuCmhBskTJH-0xVunJkBDmafp9CSwiIypyD1mZq6aVScDTt_ETJBZGAiZMnv7FydA_CGmBl3NSfDWP7rXJrqA2N4BA9OM-INgbKYZsIwFEYPta6kD69h4QykpDqWsKkrI9fy5HdFXdSEApV1x4DFC52GyIr-Dc8WzP-19A_Gcb0kUQ7QTCZfYf3FHvq1798aPVFVAtZOZgggV8Rb-lsNB9SZs3qKBiIfIeGGhTkXtOijKaZFro4cZeYfXxKuQxL2HhQC_B6MBv8f4zQqKAg"
+                }
+            ]
+        }
+    }
+]

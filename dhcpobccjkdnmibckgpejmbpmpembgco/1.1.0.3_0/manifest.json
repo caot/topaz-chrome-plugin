@@ -1,0 +1,24 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "SigPlusExtLiteBgExtn.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "SigPlusExtLiteSigningChromeExt.js" ],
+      "matches": [ "http://*/*", "\u003Call_urls>" ]
+   } ],
+   "description": "The Topaz SigPlusExtLite Chrome Extension enables users to capture signatures on a wide variety of Topaz signature pads.",
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8JuF0iB8pp6NkeM+FtN6TP5XVaD7+O4ny+qG9XxfIKR76RcZjr78xpyJQXkEpOSN5yl/MXOyRqZ8DGy15iaoVxTFhTB0Rl0UU10YdVg/YMDxmhA8qjBxibwgqzth/fViGYMCSGL+0Xm+6oIeLhHcGlTS3aI1cDlcFw/PngoloDPWTtKvbCllj7/8LqLYNoActmCY8q1e3HRqKftp5HAChaK5rIkTSAUOni4JTXHlNK+QhrTcfQRV663kiVOhYutzIQ4d27v+nJSHffXJDwmMvuCY7cSmdb5+aFQoyJNkFLGzN4QkfhpJZxKplPhJauBGMbEh6EAI1MSoZmGpQukU7wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "23",
+   "name": "Topaz SigPlusExtLite Background Extension",
+   "permissions": [ "nativeMessaging", "activeTab", "tabs", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0.3"
+}
