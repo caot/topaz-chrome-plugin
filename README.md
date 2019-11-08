@@ -2,8 +2,11 @@
 
 https://www.topazsystems.com/software/SigPlusExtLite_UserInstall.pdf
 
------ Chrome: -----------------------------------------------------------------------------------
-Chrome:
+## Example:
+https://sigplusweb.com/sign_chrome_ff_sigplusextlite.html
+
+
+## Chrome:
 
 <del>C1. Intall: http://www.topazsystems.com/Software/SigPlusExtLite.exe</del>
 
@@ -13,5 +16,4 @@ Chrome:
 1. Start the Chrome Browser.
 2. Add extension by navigating to the URL:
 
-https:/chrome.google.com/webstore/detail/Topaz-SigPlusExtLiteback/dhcpobccjkdnmibckgpejmbpmpembgco
------ Chrome END ---------------------------------------------------------------------------------
+[chrome plugin link](https:/chrome.google.com/webstore/detail/Topaz-SigPlusExtLiteback/dhcpobccjkdnmibckgpejmbpmpembgco)
